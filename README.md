@@ -1,5 +1,28 @@
-# Delta Full Stack Journey 🚀
-Learning full stack web development with Apna College Delta Batch.
+Delta Full Stack Journey 🚀
+A personal repository to track my full stack web development progress with Apna College Delta Batch.
 
-## Progress
-- Day 1 ✅ - HTML Basics (Avengers practice)
+📁 Structure
+Delta-Full-Stack/
+├── HTML/        → HTML practice exercises
+├── CSS/         → CSS practice exercises
+└── README.md
+
+📚 Progress
+HTML
+
+✅ Day 1 - Basics & Avengers Practice
+✅ Day 2 - Images, Links & Tables
+✅ Forms & Input Elements
+
+CSS
+
+✅ Methods to Apply CSS
+✅ Practice Question 1
+
+
+🛠️ Tech Stack
+HTML
+CSS
+
+👨‍💻 Author
+Jitendra Kumar — learning and building every day.
