@@ -1,28 +1,21 @@
-Delta Full Stack Journey 🚀
-A personal repository to track my full stack web development progress with Apna College Delta Batch.
+# Delta Full Stack Journey
 
-📁 Structure
-Delta-Full-Stack/
-├── HTML/        → HTML practice exercises
-├── CSS/         → CSS practice exercises
-└── README.md
+A repository to track my full stack web development progress with Apna College Delta Batch.
 
-📚 Progress
+## Structure
+- HTML/ → HTML practice exercises
+- CSS/  → CSS practice exercises
+
+## Progress
+
 HTML
-
-✅ Day 1 - Basics & Avengers Practice
-✅ Day 2 - Images, Links & Tables
-✅ Forms & Input Elements
+- Day 1 - Basics & Avengers Practice
+- Day 2 - Images, Links & Tables
+- Forms & Input Elements
 
 CSS
+- Methods to Apply CSS
+- Practice Question 1
 
-✅ Methods to Apply CSS
-✅ Practice Question 1
-
-
-🛠️ Tech Stack
-HTML
-CSS
-
-👨‍💻 Author
-Jitendra Kumar — learning and building every day.
+## Author
+Jitendra Kumar
