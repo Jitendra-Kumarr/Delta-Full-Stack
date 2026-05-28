@@ -1,0 +1,35 @@
+.card {
+    height: 250px;
+    width: 200px;
+    border: 2px solid black;
+    overflow: hidden;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: 1s;
+    display: inline-block; /* keep just this one */
+    vertical-align: top;   /* aligns cards to the top */
+  }
+  
+  .desc {
+    padding: 0 8px;
+  }
+  
+  img {
+    width: 100%;
+    height: 170px;
+    object-fit: cover;
+  }
+  
+  .card:hover {              /* ← remove the space before :hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6);
+    transform: scale(1.03);  /* optional: slight grow on hover */
+  }
+
+  .desc h3 {
+    margin: 6px 0 2px 0;  /* top, right, bottom, left */
+  }
+  
+  .desc p {
+    margin: 0;
+  }
